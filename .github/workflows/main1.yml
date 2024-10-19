@@ -1,4 +1,4 @@
-sioname: Check Java and Node Versions
+name: Check Java and Node Versions
 on:
   push:
     branches:
